@@ -19,7 +19,7 @@
       "required": false
     },
     {
-      "id": "piINFORMATION",
+      "id": "pii",
       "label": "PII",
       "type": "text",
       "required": false
