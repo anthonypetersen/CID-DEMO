@@ -2,5 +2,6 @@
   "object_type": "PRIMARY",
   "conceptId": "235261254",
   "key": "New Prims",
-  "test": "testing"
+  "test": "testing",
+  "pii": "TRUE"
 }
