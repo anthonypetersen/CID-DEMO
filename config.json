@@ -17,6 +17,12 @@
       "label": "test",
       "type": "text",
       "required": false
+    },
+    {
+      "id": "pii",
+      "label": "PII",
+      "type": "text",
+      "required": false
     }
   ],
   "SECONDARY": [
