@@ -23,12 +23,6 @@
       "label": "PII",
       "type": "text",
       "required": false
-    },
-    {
-      "id": "conceptTest",
-      "label": "Concept Test",
-      "type": "concept",
-      "required": false
     }
   ],
   "SECONDARY": [
