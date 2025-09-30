@@ -90,9 +90,8 @@
     {
       "id": "responses",
       "label": "Responses",
-      "type": "reference",
-      "required": false,
-      "referencesType": "RESPONSE"
+      "type": "array",
+      "required": false
     }
   ],
   "RESPONSE": [
