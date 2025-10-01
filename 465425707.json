@@ -4,8 +4,8 @@
   "key": "Question Demo",
   "secondaryConceptId": "366804605",
   "responses": [
-    "266588975",
-    "622755399"
+    "266588975"
   ],
-  "surveyName": "Clinical Biospecimen"
+  "surveyName": "Clinical Biospecimen",
+  "sourceConceptId": ""
 }
