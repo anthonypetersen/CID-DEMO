@@ -93,6 +93,12 @@
       "type": "reference",
       "required": false,
       "referencesType": "RESPONSE"
+    },
+    {
+      "id": "surveyName",
+      "label": "Survey Name",
+      "type": "text",
+      "required": false
     }
   ],
   "RESPONSE": [
