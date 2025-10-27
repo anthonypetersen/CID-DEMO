@@ -1,10 +1,87 @@
 {
-  "622755399.json": "YES",
-  "266588975.json": "NO",
-  "211630322.json": "Field Demo",
-  "803060143.json": "Do you heat pancakes?",
-  "485447035.json": "Again",
-  "366804605.json": "Secondary Demo",
-  "269709357.json": "New Secondary",
-  "465425707.json": "Question Demo"
+  "_metadata": {
+    "last_updated": "2025-10-27T23:17:30.252Z",
+    "total_files": 8,
+    "version": "2.0"
+  },
+  "_files": {
+    "211630322.json": {
+      "key": "Field Demo",
+      "object_type": "PRIMARY"
+    },
+    "485447035.json": {
+      "key": "Again",
+      "object_type": "QUESTION"
+    },
+    "266588975.json": {
+      "key": "NO",
+      "object_type": "RESPONSE"
+    },
+    "269709357.json": {
+      "key": "New Secondary",
+      "object_type": "SECONDARY"
+    },
+    "366804605.json": {
+      "key": "Secondary Demo",
+      "object_type": "SECONDARY"
+    },
+    "465425707.json": {
+      "key": "Question Demo",
+      "object_type": "QUESTION"
+    },
+    "622755399.json": {
+      "key": "YES",
+      "object_type": "RESPONSE"
+    },
+    "803060143.json": {
+      "key": "Do you heat pancakes?",
+      "object_type": "QUESTION"
+    }
+  },
+  "_search": {
+    "by_key": {
+      "Field Demo": [
+        "211630322.json"
+      ],
+      "Again": [
+        "485447035.json"
+      ],
+      "NO": [
+        "266588975.json"
+      ],
+      "New Secondary": [
+        "269709357.json"
+      ],
+      "Secondary Demo": [
+        "366804605.json"
+      ],
+      "Question Demo": [
+        "465425707.json"
+      ],
+      "YES": [
+        "622755399.json"
+      ],
+      "Do you heat pancakes?": [
+        "803060143.json"
+      ]
+    },
+    "by_type": {
+      "PRIMARY": [
+        "211630322.json"
+      ],
+      "QUESTION": [
+        "485447035.json",
+        "465425707.json",
+        "803060143.json"
+      ],
+      "RESPONSE": [
+        "266588975.json",
+        "622755399.json"
+      ],
+      "SECONDARY": [
+        "269709357.json",
+        "366804605.json"
+      ]
+    }
+  }
 }
