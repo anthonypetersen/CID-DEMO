@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-01-15T21:49:11.605Z",
-    "total_files": 7,
+    "last_updated": "2026-01-15T21:49:23.502Z",
+    "total_files": 6,
     "version": "2.0"
   },
   "_files": {
@@ -28,10 +28,6 @@
     "366804605.json": {
       "key": "Secondary Demo",
       "object_type": "SECONDARY"
-    },
-    "803060143.json": {
-      "key": "Do you heat pancakes?",
-      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -53,9 +49,6 @@
       ],
       "Secondary Demo": [
         "366804605.json"
-      ],
-      "Do you heat pancakes?": [
-        "803060143.json"
       ]
     },
     "by_type": {
@@ -71,8 +64,7 @@
         "366804605.json"
       ],
       "QUESTION": [
-        "485447035.json",
-        "803060143.json"
+        "485447035.json"
       ]
     }
   }
