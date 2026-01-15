@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2025-10-28T18:56:54.865Z",
-    "total_files": 8,
+    "last_updated": "2026-01-15T21:49:11.605Z",
+    "total_files": 7,
     "version": "2.0"
   },
   "_files": {
@@ -16,10 +16,6 @@
     "269709357.json": {
       "key": "New Secondary",
       "object_type": "SECONDARY"
-    },
-    "465425707.json": {
-      "key": "Question Demo",
-      "object_type": "QUESTION"
     },
     "622755399.json": {
       "key": "YES",
@@ -49,9 +45,6 @@
       "New Secondary": [
         "269709357.json"
       ],
-      "Question Demo": [
-        "465425707.json"
-      ],
       "YES": [
         "622755399.json"
       ],
@@ -78,7 +71,6 @@
         "366804605.json"
       ],
       "QUESTION": [
-        "465425707.json",
         "485447035.json",
         "803060143.json"
       ]
