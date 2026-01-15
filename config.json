@@ -11,18 +11,6 @@
       "label": "Key",
       "type": "text",
       "required": true
-    },
-    {
-      "id": "test",
-      "label": "test",
-      "type": "text",
-      "required": false
-    },
-    {
-      "id": "pii",
-      "label": "PII",
-      "type": "text",
-      "required": false
     }
   ],
   "SECONDARY": [
@@ -93,12 +81,6 @@
       "type": "reference",
       "required": false,
       "referencesType": "RESPONSE"
-    },
-    {
-      "id": "surveyName",
-      "label": "Survey Name",
-      "type": "text",
-      "required": false
     }
   ],
   "RESPONSE": [
