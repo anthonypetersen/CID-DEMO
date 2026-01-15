@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-01-15T21:49:29.625Z",
-    "total_files": 6,
+    "last_updated": "2026-01-15T21:50:09.187Z",
+    "total_files": 5,
     "version": "2.0"
   },
   "_files": {
@@ -24,10 +24,6 @@
     "366804605.json": {
       "key": "Secondary Demo",
       "object_type": "SECONDARY"
-    },
-    "485447035.json": {
-      "key": "Again",
-      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -46,9 +42,6 @@
       ],
       "Secondary Demo": [
         "366804605.json"
-      ],
-      "Again": [
-        "485447035.json"
       ]
     },
     "by_type": {
@@ -62,9 +55,6 @@
       "SECONDARY": [
         "269709357.json",
         "366804605.json"
-      ],
-      "QUESTION": [
-        "485447035.json"
       ]
     }
   }
