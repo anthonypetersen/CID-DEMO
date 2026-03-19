@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:04.486Z",
-    "total_files": 10,
+    "last_updated": "2026-03-19T17:31:07.959Z",
+    "total_files": 11,
     "version": "2.0"
   },
   "_files": {
@@ -44,6 +44,10 @@
     "400000002.json": {
       "key": "Sex",
       "object_type": "QUESTION"
+    },
+    "400000003.json": {
+      "key": "SmokingStatus",
+      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -77,6 +81,9 @@
       ],
       "Sex": [
         "400000002.json"
+      ],
+      "SmokingStatus": [
+        "400000003.json"
       ]
     },
     "by_type": {
@@ -96,7 +103,8 @@
       ],
       "QUESTION": [
         "400000001.json",
-        "400000002.json"
+        "400000002.json",
+        "400000003.json"
       ]
     }
   }
