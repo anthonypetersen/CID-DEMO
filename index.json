@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:10.491Z",
-    "total_files": 12,
+    "last_updated": "2026-03-19T17:31:12.925Z",
+    "total_files": 13,
     "version": "2.0"
   },
   "_files": {
@@ -52,6 +52,10 @@
     "400000004.json": {
       "key": "WeightChange",
       "object_type": "QUESTION"
+    },
+    "400000005.json": {
+      "key": "PhysicalActivity",
+      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -91,6 +95,9 @@
       ],
       "WeightChange": [
         "400000004.json"
+      ],
+      "PhysicalActivity": [
+        "400000005.json"
       ]
     },
     "by_type": {
@@ -112,7 +119,8 @@
         "400000001.json",
         "400000002.json",
         "400000003.json",
-        "400000004.json"
+        "400000004.json",
+        "400000005.json"
       ]
     }
   }
