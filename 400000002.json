@@ -1,0 +1,13 @@
+{
+  "key": "Sex",
+  "conceptID": 400000002,
+  "object_type": "QUESTION",
+  "text": "Sex assigned at birth",
+  "secondaryConceptId": [
+    200000001
+  ],
+  "responses": [
+    500000004,
+    500000005
+  ]
+}
