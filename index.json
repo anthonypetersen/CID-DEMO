@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:30:42.890Z",
-    "total_files": 2,
+    "last_updated": "2026-03-19T17:30:46.552Z",
+    "total_files": 3,
     "version": "2.0"
   },
   "_files": {
@@ -12,6 +12,10 @@
     "100000002.json": {
       "key": "Biospecimen",
       "object_type": "PRIMARY"
+    },
+    "200000001.json": {
+      "key": "Baseline Survey",
+      "object_type": "SECONDARY"
     }
   },
   "_search": {
@@ -21,12 +25,18 @@
       ],
       "Biospecimen": [
         "100000002.json"
+      ],
+      "Baseline Survey": [
+        "200000001.json"
       ]
     },
     "by_type": {
       "PRIMARY": [
         "100000001.json",
         "100000002.json"
+      ],
+      "SECONDARY": [
+        "200000001.json"
       ]
     }
   }
