@@ -88,6 +88,12 @@
       "type": "reference",
       "required": false,
       "referencesType": "RESPONSE"
+    },
+    {
+      "id": "text",
+      "label": "Text",
+      "type": "text",
+      "required": false
     }
   ],
   "RESPONSE": [
