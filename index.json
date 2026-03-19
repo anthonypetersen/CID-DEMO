@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:02.241Z",
-    "total_files": 9,
+    "last_updated": "2026-03-19T17:31:04.486Z",
+    "total_files": 10,
     "version": "2.0"
   },
   "_files": {
@@ -40,6 +40,10 @@
     "400000001.json": {
       "key": "Age",
       "object_type": "QUESTION"
+    },
+    "400000002.json": {
+      "key": "Sex",
+      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -70,6 +74,9 @@
       ],
       "Age": [
         "400000001.json"
+      ],
+      "Sex": [
+        "400000002.json"
       ]
     },
     "by_type": {
@@ -88,7 +95,8 @@
         "300000002.json"
       ],
       "QUESTION": [
-        "400000001.json"
+        "400000001.json",
+        "400000002.json"
       ]
     }
   }
