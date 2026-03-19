@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:42.002Z",
-    "total_files": 24,
+    "last_updated": "2026-03-19T17:31:44.496Z",
+    "total_files": 25,
     "version": "2.0"
   },
   "_files": {
@@ -100,6 +100,10 @@
     "500000008.json": {
       "key": "Current",
       "object_type": "RESPONSE"
+    },
+    "500000009.json": {
+      "key": "Lost weight",
+      "object_type": "RESPONSE"
     }
   },
   "_search": {
@@ -175,6 +179,9 @@
       ],
       "Current": [
         "500000008.json"
+      ],
+      "Lost weight": [
+        "500000009.json"
       ]
     },
     "by_type": {
@@ -210,7 +217,8 @@
         "500000005.json",
         "500000006.json",
         "500000007.json",
-        "500000008.json"
+        "500000008.json",
+        "500000009.json"
       ]
     }
   }
