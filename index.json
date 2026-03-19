@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:30:46.552Z",
-    "total_files": 3,
+    "last_updated": "2026-03-19T17:30:48.926Z",
+    "total_files": 4,
     "version": "2.0"
   },
   "_files": {
@@ -16,6 +16,10 @@
     "200000001.json": {
       "key": "Baseline Survey",
       "object_type": "SECONDARY"
+    },
+    "200000002.json": {
+      "key": "Follow-Up Survey",
+      "object_type": "SECONDARY"
     }
   },
   "_search": {
@@ -28,6 +32,9 @@
       ],
       "Baseline Survey": [
         "200000001.json"
+      ],
+      "Follow-Up Survey": [
+        "200000002.json"
       ]
     },
     "by_type": {
@@ -36,7 +43,8 @@
         "100000002.json"
       ],
       "SECONDARY": [
-        "200000001.json"
+        "200000001.json",
+        "200000002.json"
       ]
     }
   }
