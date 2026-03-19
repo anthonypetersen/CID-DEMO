@@ -1,0 +1,7 @@
+{
+  "key": "Saliva",
+  "conceptID": 200000004,
+  "object_type": "SECONDARY",
+  "description": "Saliva sample collection",
+  "primaryConceptId": 100000002
+}
