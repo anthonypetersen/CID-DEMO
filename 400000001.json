@@ -1,0 +1,15 @@
+{
+  "key": "Age",
+  "conceptID": 400000001,
+  "object_type": "QUESTION",
+  "text": "Age at enrollment",
+  "secondaryConceptId": [
+    200000001
+  ],
+  "sourceConceptId": 300000001,
+  "responses": [
+    500000001,
+    500000002,
+    500000003
+  ]
+}
