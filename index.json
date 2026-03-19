@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:12.925Z",
-    "total_files": 13,
+    "last_updated": "2026-03-19T17:31:16.297Z",
+    "total_files": 14,
     "version": "2.0"
   },
   "_files": {
@@ -56,6 +56,10 @@
     "400000005.json": {
       "key": "PhysicalActivity",
       "object_type": "QUESTION"
+    },
+    "400000006.json": {
+      "key": "CollectionDate",
+      "object_type": "QUESTION"
     }
   },
   "_search": {
@@ -98,6 +102,9 @@
       ],
       "PhysicalActivity": [
         "400000005.json"
+      ],
+      "CollectionDate": [
+        "400000006.json"
       ]
     },
     "by_type": {
@@ -120,7 +127,8 @@
         "400000002.json",
         "400000003.json",
         "400000004.json",
-        "400000005.json"
+        "400000005.json",
+        "400000006.json"
       ]
     }
   }
