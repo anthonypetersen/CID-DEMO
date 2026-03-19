@@ -1,12 +1,16 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:30:40.627Z",
-    "total_files": 1,
+    "last_updated": "2026-03-19T17:30:42.890Z",
+    "total_files": 2,
     "version": "2.0"
   },
   "_files": {
     "100000001.json": {
       "key": "Study",
+      "object_type": "PRIMARY"
+    },
+    "100000002.json": {
+      "key": "Biospecimen",
       "object_type": "PRIMARY"
     }
   },
@@ -14,11 +18,15 @@
     "by_key": {
       "Study": [
         "100000001.json"
+      ],
+      "Biospecimen": [
+        "100000002.json"
       ]
     },
     "by_type": {
       "PRIMARY": [
-        "100000001.json"
+        "100000001.json",
+        "100000002.json"
       ]
     }
   }
