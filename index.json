@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-03-19T17:31:34.266Z",
-    "total_files": 21,
+    "last_updated": "2026-03-19T17:31:36.358Z",
+    "total_files": 22,
     "version": "2.0"
   },
   "_files": {
@@ -88,6 +88,10 @@
     "500000005.json": {
       "key": "Female",
       "object_type": "RESPONSE"
+    },
+    "500000006.json": {
+      "key": "Never",
+      "object_type": "RESPONSE"
     }
   },
   "_search": {
@@ -154,6 +158,9 @@
       ],
       "Female": [
         "500000005.json"
+      ],
+      "Never": [
+        "500000006.json"
       ]
     },
     "by_type": {
@@ -186,7 +193,8 @@
         "500000002.json",
         "500000003.json",
         "500000004.json",
-        "500000005.json"
+        "500000005.json",
+        "500000006.json"
       ]
     }
   }
