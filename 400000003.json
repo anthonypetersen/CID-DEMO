@@ -1,0 +1,14 @@
+{
+  "key": "SmokingStatus",
+  "conceptID": 400000003,
+  "object_type": "QUESTION",
+  "text": "Current smoking status",
+  "secondaryConceptId": [
+    200000001
+  ],
+  "responses": [
+    500000006,
+    500000007,
+    500000008
+  ]
+}
