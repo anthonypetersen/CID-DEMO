@@ -1,0 +1,9 @@
+{
+  "key": "PhysicalActivity",
+  "conceptID": 400000005,
+  "object_type": "QUESTION",
+  "text": "Days of physical activity per week",
+  "secondaryConceptId": [
+    200000002
+  ]
+}
