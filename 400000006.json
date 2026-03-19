@@ -1,0 +1,9 @@
+{
+  "key": "CollectionDate",
+  "conceptID": 400000006,
+  "object_type": "QUESTION",
+  "text": "Date of blood draw",
+  "secondaryConceptId": [
+    200000003
+  ]
+}
