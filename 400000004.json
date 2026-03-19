@@ -1,0 +1,15 @@
+{
+  "key": "WeightChange",
+  "conceptID": 400000004,
+  "object_type": "QUESTION",
+  "text": "Weight change since last visit",
+  "secondaryConceptId": [
+    200000002
+  ],
+  "sourceConceptId": 300000002,
+  "responses": [
+    500000009,
+    500000010,
+    500000011
+  ]
+}
