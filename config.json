@@ -1,4 +1,5 @@
 {
+  "_canary": { "keepMe": true },
   "PRIMARY": [
     {
       "id": "conceptId",
