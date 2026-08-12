@@ -1,5 +1,7 @@
 {
-  "_canary": { "keepMe": true },
+  "_canary": {
+    "keepMe": true
+  },
   "PRIMARY": [
     {
       "id": "conceptId",
@@ -89,12 +91,6 @@
       "type": "reference",
       "required": false,
       "referencesType": "RESPONSE"
-    },
-    {
-      "id": "text",
-      "label": "Text",
-      "type": "text",
-      "required": false
     }
   ],
   "RESPONSE": [
